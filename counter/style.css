@@ -1,0 +1,26 @@
+
+body {
+
+ font-family: monospace, Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#value {
+ font-size: 80px;
+ font-weight: bolder;
+}
+
+.container {
+ margin: 15% 25%;
+ text-align: center;
+ border: 2px solid black;
+ width: 50%;
+ height: 50vh;
+ background-color: blanchedalmond;
+}
+ 
+button {
+ width: 80px;
+ height: 40px;
+ border: 1px solid;
+ border-radius: 20%;
+}
